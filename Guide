@@ -1,0 +1,41 @@
+Gaming Mode:
+
+Set the game for max performance (edited)
+
+Optimize for windowed apps (edited)
+
+
+
+Set the game for max performance
+
+
+run 'powercfg.cpl' and set it to High Performance
+
+
+on Mixed reality ensure that you have the  "Create Virtual Displays for classic .. " disabled
+
+
+I disable Xbox Game bar
+
+
+this is my setup for upscaling, performance and experience in Mixed reality (edited)
+
+
+my OpenXR ini for IRacing
+[AutoCfg]
+AutoCfgCompleted=1                              	; 0=need to run 3D autocfg at startup
+Version=1                                       	; Version of this file
+
+[Graphics Options]
+SpeedTreesSelfShadow=0                          	; 0=off, 1=more self-shadowing SpeedTrees
+Expand
+rendererDX11OpenXR.ini
+22 KB
+[6:43 PM]
+I have OpenXR toolkit installed.
+
+
+I also have OpenXR tools for Windows Mixed Reality installed from the Windows Store and set a (edited)
+
+This allows me to run OBS streaming while racing and am most pinned at 90fps on my G2. Only exceptions are some of the more intensive tracks with big stadiums, etc that I do turn some features down in IRacing
+
