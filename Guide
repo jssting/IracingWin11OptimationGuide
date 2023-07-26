@@ -1,41 +1,35 @@
 Gaming Mode:
+Set the game for max performance 
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image.png
 
-Set the game for max performance (edited)
-
-Optimize for windowed apps (edited)
-
-
+Optimize for windowed apps
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image2.png
 
 Set the game for max performance
-
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image3.png
 
 run 'powercfg.cpl' and set it to High Performance
-
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image4.png
 
 on Mixed reality ensure that you have the  "Create Virtual Displays for classic .. " disabled
-
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image5.png
 
 I disable Xbox Game bar
-
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image6.png
 
 this is my setup for upscaling, performance and experience in Mixed reality (edited)
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image7.png
 
+Open OpenXR.ini for IRacing folder ( documents)
+and update as per included file 
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/rendererDX11OpenXR.ini
 
-my OpenXR ini for IRacing
-[AutoCfg]
-AutoCfgCompleted=1                              	; 0=need to run 3D autocfg at startup
-Version=1                                       	; Version of this file
-
-[Graphics Options]
-SpeedTreesSelfShadow=0                          	; 0=off, 1=more self-shadowing SpeedTrees
-Expand
-rendererDX11OpenXR.ini
-22 KB
-[6:43 PM]
 I have OpenXR toolkit installed.
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image8.png
 
+I also have OpenXR tools for Windows Mixed Reality installed from the Windows Store and set as follows 
+https://github.com/jssting/IracingWin11OptimationGuide/blob/main/image9.png
 
-I also have OpenXR tools for Windows Mixed Reality installed from the Windows Store and set a (edited)
 
 This allows me to run OBS streaming while racing and am most pinned at 90fps on my G2. Only exceptions are some of the more intensive tracks with big stadiums, etc that I do turn some features down in IRacing
 
